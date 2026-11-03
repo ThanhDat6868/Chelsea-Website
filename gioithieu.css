@@ -1,0 +1,45 @@
+.menu a{
+    color: #044694;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
+
+.thong_tin{
+    height: 150px;
+    background-color: #001489;
+    color: white;
+    padding: 10px;
+}
+
+.col-33{
+    width: 33.33%;
+    float: left;
+}
+
+.img-container{
+    padding: 40px;
+    margin: 20px;
+}
+
+*{
+    box-sizing: border-box;
+} 
+.row::after {
+    clear: both;
+    display: table;
+    content: "";
+    
+}
+.noi_dung{
+    color: black;
+}
+
+.noi_dung_con{
+    color: #001489;
+}
+
+.menu a:hover{
+    color: white;
+    background-color: #044694;
+}

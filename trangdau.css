@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&display=swap');
+.menu{
+    text-transform: uppercase;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    background-color: #140a47;
+    
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
+
+body{
+    background: url(TrueBlue.jpg) no-repeat;
+    background-size: cover;
+    min-height: 0px;
+    background-attachment: fixed;
+}
+
+.menu1{
+    width: 700px;
+    margin: 60px auto;
+    overflow: hidden;
+    padding: 40px;
+    color: #b88f4f;
+}
+.menu_con{
+    color: white;
+}
+
+.menu a:hover{
+    color: white;
+    background-color: #044694;
+}
+
+.banner{
+        font-family: "Saira Stencil One", sans-serif;
+        font-weight: 500;
+        font-style: normal;  
+}
+.h3{
+    font-family: "Bungee Shade", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+h4{
+    font-family: "Sigmar One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

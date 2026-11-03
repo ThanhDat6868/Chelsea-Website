@@ -1,0 +1,44 @@
+.menu a{
+    color: #044694;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
+
+.col-30{
+    width: 33.33%;
+    float: left;
+}
+
+*{
+    box-sizing: border-box;
+} 
+.row::after {
+    clear: both;
+    display: table;
+    content: "";
+}
+
+.img-container{
+    padding: 40px;
+    margin: 20px;
+}
+
+h2{
+    color: #044694;
+}
+
+h1{
+    color: #044694;
+}
+
+.menu a:hover{
+    color: white;
+    background-color: #044694;
+}
+
+.img-coniter{
+    display: flex;
+    justify-content: center;
+ }
+
